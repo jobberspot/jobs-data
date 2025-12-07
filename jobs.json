@@ -1,5 +1,83 @@
 [
   {
+    "id": "job-009",
+    "title": "Medical Laboratory Manager",
+    "company": "Choice Talents LTD",
+    "companyLogo": "",
+    "location": "Ikeja, Lagos, Nigeria",
+    "salary": "₦170,000 – ₦200,000 per month",
+    "requirements": "• Perform laboratory assays and duties as required.\n• HND/B.Sc in Laboratory Science.\n• 5–7 years experience as a Laboratory Manager.\n• Must have worked as a Medical Laboratory Scientist.\n• Strong leadership and organizational skills.\n• Effective communication.",
+    "responsibilities": "• Manage daily operations of the centre.\n• Handle pre-analytical, analytical and post-analytical processes.\n• Ensure quality control adherence.\n• Recommend and implement process improvements.\n• Assist with improving turnaround time.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Healthcare", "Laboratory"],
+    "publishedAt": "2025-12-07T09:38:00Z"
+  },
+  {
+    "id": "job-008",
+    "title": "UX Specialist",
+    "company": "Mobile Sport Limited",
+    "companyLogo": "",
+    "location": "Lagos, Nigeria",
+    "salary": "Not specified",
+    "requirements": "• Degree in Computer Science, IT, Design, or related field.\n• 1–3 years experience in UX design or research.\n• Strong knowledge of user-centered design.\n• Experience with Figma.\n• Ability to analyze user behaviour and test designs.\n• Portfolio or case studies required.\n• Active sports-betting user.\n• Strong communication and teamwork.",
+    "responsibilities": "• Conduct interviews, surveys, and usability tests.\n• Analyze user behaviour and competitor apps.\n• Create wireframes, flows, and prototypes.\n• Propose localized product improvements.\n• Present UX solutions to stakeholders.\n• Support continuous UX testing.\n• Collaborate with the Nigeria-based UXR team.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Design", "UX/UI"],
+    "publishedAt": "2025-12-07T09:37:00Z"
+  },
+  {
+    "id": "job-007",
+    "title": "Video Editor (YouTube + Social Media)",
+    "company": "WarRoom Digital",
+    "companyLogo": "",
+    "location": "Remote (Abuja preferred)",
+    "salary": "₦30,000 per month (Internship stipend)",
+    "requirements": "• Skilled with Premiere Pro, DaVinci Resolve, Final Cut, etc.\n• Good pacing, jump cuts, subtitles, and retention editing.\n• Basic motion graphics is an advantage.\n• Reliable and deadline-driven.\n• Strong creativity and communication.\n• Must provide 3 video samples.",
+    "responsibilities": "• Edit 1–2 high-quality YouTube videos weekly.\n• Convert long-form videos to short-form content.\n• Add captions, motion graphics, transitions.\n• Follow brand guidelines.\n• Collaborate on ideas and virality angles.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Internship", "Media", "Video Editing", "Remote"],
+    "publishedAt": "2025-12-07T09:32:00Z"
+  },
+  {
+    "id": "job-006",
+    "title": "Medical Laboratory Manager",
+    "company": "Choice Talents LTD",
+    "companyLogo": "",
+    "location": "Ikeja, Lagos, Nigeria",
+    "salary": "₦170,000 – ₦200,000 per month",
+    "requirements": "• Perform laboratory assays and duties as required.\n• HND/B.Sc in Laboratory Science.\n• 5–7 years experience as a Laboratory Manager.\n• Must have worked as a Medical Laboratory Scientist.\n• Strong leadership and organizational skills.\n• Effective communication.",
+    "responsibilities": "• Manage daily operations of the centre.\n• Handle pre-analytical, analytical and post-analytical processes.\n• Ensure quality control adherence.\n• Recommend and implement process improvements.\n• Assist with improving turnaround time.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Healthcare", "Laboratory"],
+    "publishedAt": "2025-12-07T08:30:00Z"
+  },
+  {
+    "id": "job-005",
+    "title": "UX Specialist",
+    "company": "Mobile Sport Limited",
+    "companyLogo": "",
+    "location": "Lagos, Nigeria",
+    "salary": "Not specified",
+    "requirements": "• Degree in Computer Science, IT, Design, or related field.\n• 1–3 years experience in UX design or research.\n• Strong knowledge of user-centered design.\n• Experience with Figma.\n• Ability to analyze user behaviour and test designs.\n• Portfolio or case studies required.\n• Active sports-betting user.\n• Strong communication and teamwork.",
+    "responsibilities": "• Conduct interviews, surveys, and usability tests.\n• Analyze user behaviour and competitor apps.\n• Create wireframes, flows, and prototypes.\n• Propose localized product improvements.\n• Present UX solutions to stakeholders.\n• Support continuous UX testing.\n• Collaborate with the Nigeria-based UXR team.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Design", "UX/UI"],
+    "publishedAt": "2025-12-06T02:30:00Z"
+  },
+  {
+    "id": "job-004",
+    "title": "Video Editor (YouTube + Social Media)",
+    "company": "WarRoom Digital",
+    "companyLogo": "",
+    "location": "Remote (Abuja preferred)",
+    "salary": "₦30,000 per month (Internship stipend)",
+    "requirements": "• Skilled with Premiere Pro, DaVinci Resolve, Final Cut, etc.\n• Good pacing, jump cuts, subtitles, and retention editing.\n• Basic motion graphics is an advantage.\n• Reliable and deadline-driven.\n• Strong creativity and communication.\n• Must provide 3 video samples.",
+    "responsibilities": "• Edit 1–2 high-quality YouTube videos weekly.\n• Convert long-form videos to short-form content.\n• Add captions, motion graphics, transitions.\n• Follow brand guidelines.\n• Collaborate on ideas and virality angles.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Internship", "Media", "Video Editing", "Remote"],
+    "publishedAt": "2025-12-01T14:30:00Z"
+  },
+  {
     "id": "job-003",
     "title": "Medical Laboratory Manager",
     "company": "Choice Talents LTD",
@@ -40,4 +118,5 @@
   }
 
 ]
+
 
