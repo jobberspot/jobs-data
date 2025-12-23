@@ -39,6 +39,45 @@
     "publishedAt": "2025-12-12T06:32:00Z"
   },
   {
+    "id": "job-018",
+    "title": "Medical Laboratory Manager",
+    "company": "Choice Talents LTD",
+    "companyLogo": "https://blogger.googleusercontent.com/img/a/AVvXsEgNyB3Wm9PhQaRMNPCQZ-v23R13EH92hlcDxnkqlSOmZwQFewYH4YzOpSiHeVcYDMWS3ycNQ1ZaSvU03hZVmIWnso7tKg_1AtTZGTw33StdW7CBHcI5hVHjyIJ-IC9AztNfkU1cRyvctI7fHm6cYqpm-AkB8FUA-SMOOKQtpdXa_TD57khu3g9Fhdgj8Zc=s16000",
+    "location": "Ikeja, Lagos, Nigeria",
+    "salary": "₦170,000 – ₦200,000 per month",
+    "requirements": "Perform laboratory assays and duties as required. HND/B.Sc in Laboratory Science. 5–7 years experience as a Laboratory Manager. Must have worked as a Medical Laboratory Scientist. Strong leadership and organizational skills. Effective communication.",
+    "responsibilities": "Manage daily operations of the centre. Handle pre-analytical, analytical and post-analytical processes. Ensure quality control adherence. Recommend and implement process improvements. Assist with improving turnaround time.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Healthcare", "Laboratory"],
+    "publishedAt": "2025-12-13T07:40:00Z"
+  },
+  {
+    "id": "job-017",
+    "title": "UX Specialist",
+    "company": "Mobile Sport Limited",
+    "companyLogo": "",
+    "location": "Lagos, Nigeria",
+    "salary": "Pay undisclosed",
+    "requirements": "Degree in Computer Science, IT, Design, or related field. 1–3 years experience in UX design or research. Strong knowledge of user-centered design. Experience with Figma. Ability to analyze user behaviour and test designs. Portfolio or case studies required. Active sports-betting user. Strong communication and teamwork.",
+    "responsibilities": "Conduct interviews, surveys, and usability tests. Analyze user behaviour and competitor apps. Create wireframes, flows, and prototypes. Propose localized product improvements. Present UX solutions to stakeholders. Support continuous UX testing. Collaborate with the Nigeria-based UXR team.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Full-Time", "Design", "UX/UI"],
+    "publishedAt": "2025-12-13T06:30:00Z"
+  },
+  {
+    "id": "job-016",
+    "title": "Video Editor (YouTube + Social Media)",
+    "company": "WarRoom Digital",
+    "companyLogo": "",
+    "location": "Remote (Abuja preferred)",
+    "salary": "₦30,000 per month (Internship stipend)",
+    "requirements": "Skilled with Premiere Pro, DaVinci Resolve, Final Cut, etc. Good pacing, jump cuts, subtitles, and retention editing. Basic motion graphics is an advantage. Reliable and deadline-driven. Strong creativity and communication. Must provide 3 video samples.",
+    "responsibilities": "Edit 1–2 high-quality YouTube videos weekly. Convert long-form videos to short-form content. Add captions, motion graphics, transitions. Follow brand guidelines. Collaborate on ideas and virality angles.",
+    "url": "https://jobberspotonline.blogspot.com/p/blank.html",
+    "tags": ["Nigeria", "Internship", "Media", "Video Editing", "Remote"],
+    "publishedAt": "2025-12-12T06:32:00Z"
+  },
+  {
     "id": "job-015",
     "title": "Medical Laboratory Manager",
     "company": "Choice Talents LTD",
@@ -234,6 +273,7 @@
     "publishedAt": "2025-10-07T11:01:00Z"
   }
 ]
+
 
 
 
